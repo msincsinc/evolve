@@ -1,6 +1,7 @@
 
 
-###Description
+
+### Description
 
 Expirementation with simple genetics, evolution, equillibrium concepts in pygame
 
@@ -49,5 +50,6 @@ pip install pygame
 
 copy evolve files to directory
 
+### Licence
 
 This project is licensed under the MIT License
