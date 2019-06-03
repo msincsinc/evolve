@@ -1,3 +1,5 @@
+
+
 ###Description
 
 Expirementation with simple genetics, evolution, equillibrium concepts in pygame
@@ -36,12 +38,15 @@ python main.py
 ### Prerequisites
 
 Python 2.7x
+
 Pygame
 
 ### Installing
 
 create virtualenv (optional)
+
 pip install pygame
+
 copy evolve files to directory
 
 
